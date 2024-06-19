@@ -4,10 +4,7 @@ The sandbox Bot is designed to enhance your The sandbox game by automating vario
 
 ## Features
 
-- 🕹 Ability to buy boosts or complete tasks on multiple accounts
-- 🏡 Registration through a specific referral link that you can specify
-- Sends notifications when new tasks or boosts appear in the store
-- Provides detailed reports on coins earned every 5-6 hours
+- Provides detailed reports every 5-6 hours
 
 ## 🛠 How to install
 
